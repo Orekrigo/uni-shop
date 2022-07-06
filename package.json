@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "image-webpack-loader": "^8.1.0"
+  },
+  "dependencies": {
+    "@escook/request-miniprogram": "^0.2.1"
+  }
+}
